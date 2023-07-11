@@ -1,0 +1,33 @@
+.main {
+    margin-top: 50px;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    background: pink;
+    padding: 20px;
+    box-shadow: 1px 6px 13px #888888;
+    width: 30%;
+}
+
+h3 {
+    text-align-last: center;
+}
+
+.btn {
+    border: 0;
+    border-radius: 7px;
+    padding: 10px;
+    box-shadow: 1px 6px 13px #888888;
+    background: linear-gradient(to bottom right, #f79421, #ffd655);
+    width: 100%;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background: linear-gradient(to bottom right, #d17b17, #e5bc3b);
+}
